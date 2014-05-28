@@ -6,4 +6,4 @@ Cordova plugin for Appsee Analytics.
 credits
 =======
 
-Appsee for writing the plugin.
+Thanks to Yoni Douek form Appsee for writing the plugin.
