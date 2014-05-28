@@ -1,4 +1,4 @@
 cordova-appsee
 ==============
 
-Cordova plugin for Appsee Analytics. 
+Cordova plugin for Appsee Analytics.
