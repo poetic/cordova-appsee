@@ -6,7 +6,7 @@ Cordova plugin for Appsee Analytics.
 credits
 =======
 
-Thanks to Yoni Douek from Appsee for writing the plugin.
+Thanks to Yoni Douek from [Appsee](http://www.appsee.com/) for writing the plugin.
 
 about
 =====
